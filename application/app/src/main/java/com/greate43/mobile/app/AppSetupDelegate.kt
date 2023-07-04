@@ -17,7 +17,7 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston MA 02110-1301, USA.
  */
-package org.videolan.mobile.app
+package com.greate43.mobile.app
 
 import android.annotation.TargetApi
 import android.content.ComponentName
@@ -35,10 +35,10 @@ import org.videolan.libvlc.LibVLCFactory
 import org.videolan.libvlc.MediaFactory
 import org.videolan.libvlc.interfaces.ILibVLCFactory
 import org.videolan.libvlc.interfaces.IMediaFactory
-import org.videolan.mobile.app.delegates.IIndexersDelegate
-import org.videolan.mobile.app.delegates.IMediaContentDelegate
-import org.videolan.mobile.app.delegates.IndexersDelegate
-import org.videolan.mobile.app.delegates.MediaContentDelegate
+import com.greate43.mobile.app.delegates.IIndexersDelegate
+import com.greate43.mobile.app.delegates.IMediaContentDelegate
+import com.greate43.mobile.app.delegates.IndexersDelegate
+import com.greate43.mobile.app.delegates.MediaContentDelegate
 import org.videolan.resources.AndroidDevices
 import org.videolan.resources.AppContextProvider
 import org.videolan.resources.VLCInstance

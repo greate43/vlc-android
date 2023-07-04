@@ -1,4 +1,4 @@
-package org.videolan.mobile.app.delegates
+package com.greate43.mobile.app.delegates
 
 import android.content.BroadcastReceiver
 import android.content.Context
